@@ -7,5 +7,5 @@
 # Contains at least one special character (e.g., !, @, #, $, etc.)
 
 user=input("enter password:")
-
-if user
+print(user)
+if user >=8,
